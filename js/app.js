@@ -1,0 +1,1 @@
+console.log("Club de robótica - Lab 6 cargado correctamente");
